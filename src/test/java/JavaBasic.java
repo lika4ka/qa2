@@ -1,10 +1,10 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class JavaBasics {
+public class JavaBasic {
 
     @Test
-    public void javaBasic() {
+    public void jaBasic() {
         int a = 13;
         int b = 10;
 
